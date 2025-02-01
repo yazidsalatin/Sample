@@ -8,6 +8,20 @@ body {
     margin: 0;
 }
 
+footer {
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 600px; /* Batasi lebar agar tidak terlalu panjang */
+    border-radius: 10px; /* Beri sudut melengkung */
+}
+
 .container {
     background-color: #fff;
     padding: 20px;
