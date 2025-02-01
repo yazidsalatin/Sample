@@ -69,10 +69,8 @@ ul li .remove-task {
 
 footer {
     background-color: green;
-    color: white; /* Added text color for better visibility */
-    text-align: center; /* Centered the text */
-    padding: 10px; /* Added some padding */
-    position: fixed; /* Fixed to the bottom */
-    bottom: 0; /* Position at the bottom */
-    width: 100%;  /* Full width */
+    font-family: Arial, sans-serif;
+    padding: 20px; /* Tambahkan beberapa padding untuk spasi visual */
+    text-align: center; /* Pusatkan teks secara horizontal */
 }
+
